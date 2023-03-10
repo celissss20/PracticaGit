@@ -7,13 +7,13 @@
 body {
   font-family: 'Lato', sans-serif;
   background-color: #e01313;
-  color: #222;
+  color: #c1f603;
   overflow-x: hidden;
   margin: 0;
 }
 
 .container {
-  background-color: #c4c496;
+  background-color: #4507f0;
   transform-origin: top left;
   transition: transform 0.5s linear;
   width: 100vw;
